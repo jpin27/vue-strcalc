@@ -2,6 +2,8 @@
 
 > A String calculator written in Vue.js
 
+![vue-strcalc screenshot](/src/assets/screen.png?raw=true "The tool in action!")
+
 ## Features!
 - Input is of the form `//[delimiter]\n[delimiter separated numbers]`.
 - Example: `//;\n1;3;4` has an output of 8.
